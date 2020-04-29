@@ -1,0 +1,30 @@
+{
+  "name": "react-node-mongodb-urlshortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon idex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hshruti49/react-node-mongodb-urlshortner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hshruti49/react-node-mongodb-urlshortner/issues"
+  },
+  "homepage": "https://github.com/Hshruti49/react-node-mongodb-urlshortner#readme",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

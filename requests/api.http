@@ -3,5 +3,5 @@ POST http://localhost:5000/api/url/shorten
 Content-Type: application/json
 
 {
-    "longUrl" : "https://www.amazon.in/Harry-Potter-Goblet-Fire-Rowling-ebook/dp/B019PIOJWW/ref=zg_ebk_9?_encoding=UTF8&pd_rd_i=B019PIOJWW&pd_rd_r=dec03f27-4ca3-47b1-9b35-f5af085bdb98&pd_rd_w=qzbqq&pd_rd_wg=Jnc4E&pf_rd_p=921c46ba-60b0-407a-9757-760ea2497c1b&pf_rd_r=5BVA2C5QMMDPC1VG3DFT&psc=1&refRID=5BVA2C5QMMDPC1VG3DFT"
+    "longUrl" : "https://www.amazon.in/IRRFAN-KHAN-MAN-DREAMER-STAR-ebook/dp/B082PLTZVD/ref=pd_rhf_se_s_zg_ebk_0_5/261-2918536-1057144?_encoding=UTF8&pd_rd_i=B082PLTZVD&pd_rd_r=34b95bba-71f8-4f0b-97f9-692a102cdf8f&pd_rd_w=qNuuA&pd_rd_wg=PCW3b&pf_rd_p=6ae19939-ecb3-4591-9f68-18223252d6cd&pf_rd_r=1V45QKBNCPNBFNCAZ8DS&psc=1&refRID=1V45QKBNCPNBFNCAZ8DS"
 }

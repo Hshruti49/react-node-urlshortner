@@ -5,12 +5,11 @@ const Url = require('../models/Url');
 
 //@route    GET /:code
 
-//@desc     Redirect to long/origin URL
+//@desc     Short url redirect to long/origin URL
 
 router.get('/:code', async (req, res) => {
     try {
         const url = await Url.findOne({ urlCode: req.params.code });
-        
         if (url) {
             url.count++
             url.save()

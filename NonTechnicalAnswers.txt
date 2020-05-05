@@ -1,0 +1,30 @@
+1.  What do you think are the top 3 most important attributes of a software engineer?
+
+    1. Technical skills, Curiosity and Love of Learning.
+    2. Communication skills (LISTENING, SPEAKING AND WRITING)
+    2. Ananlytics and research skills.
+    3. Calmness and Ability to self-manage.
+
+
+2.  What is your biggest mistake in recent years?
+    -   I think the biggest issue was that the whole team took it for granted that the project would be ours. We had a good relationship with the client and we had just wrapped up a very successful project for them. A team of us, led by the account manager, went to pitch. It was a solid pitch and we got great feedback. But in retrospective phase, we didn’t go the extra mile to feel happy to them. We didn’t push as hard as we should have. That opened up the opportunity for a competitor to put on a big show and steal the business. At the same time, we failed to truly understand all of the client’s key concerns. They told us that price was the #1 consideration, so we focused on demonstrating cost-effectiveness.
+
+
+3.  What have you been learning recently? 
+
+    -   Exploring React hooks concepts.
+
+
+4.  What are some technical shortcuts that you will never take? Why? 
+
+    -   As we all know that we have more than one email accounts need to be handled in the daily basis. So the reading and responsing the emails takes more time, So we have technical shortcuts like selecting the checkbox and mark all as read.So I never take this shortcuts as there some mails which are related to organisation importance, client communications, notifications related the projects which are not supposed to be ignored.
+
+
+5.  Are you working on any technical side projects? Can you share links to them? 
+
+    -   Nope, In previous python django project, Like there are few channels where i used to help community members to resolve their issues. also I helped one of my friend to resolve few html css issues in her ongoing project. 
+
+
+6.  Have you had any disagreements with your peers over technical differences? If you have, what did you do to resolve them?
+
+    -   Yes in the previous project there was some conflicts with the offshore people from the same organisation where they hurt the developers and shut us down by saying some negative things. But we resolved these things by having meetings with management and bringing positivity to what they are trying to say, it's far more likely that will be heard and get into more communication better to understand each other and get rid of conflicts. Also we seek out for common ground which helps us to bridge the gap.

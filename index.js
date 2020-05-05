@@ -8,8 +8,9 @@ connectDB();
 app.use(express.json({ extended: false }));
 
 //Define routes
-app.use('/', require('./routes/index'));
+app.use('/', require('./routes/geturl'));
 app.use('/api/url', require('./routes/url'));
+app.use('/api/url', require('./routes/bulkurls'));
 
 const PORT =  5000;
 
